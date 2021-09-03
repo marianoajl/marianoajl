@@ -16,6 +16,7 @@
 /* B U T T O N S */
 
 .button{
+    -webkit-tap-highlight-color: transparent;
     width: 5.7vmin;
     height: 5.7vmin;
     border-radius:50%;
@@ -159,7 +160,7 @@
                 overflow: hidden;
                 border-radius: 50%;
             }
-                .img{ 
+                .image{ 
                     position: absolute;
                     margin-top: -5px;
                     margin-left: -40px;
