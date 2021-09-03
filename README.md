@@ -7,4 +7,8 @@ Carga a GITHUB de la página oficial de Mariano Jorajuría / www.marianoajl.com.
 2021-09-02 - 01:20hs
 Cambio de íconos en el footer y reordenamiento.
 
+2021-09-03 - 00:00hs
+Cambio de <!DOCTYPE html> a <!DOCTYPE html5>
+Retiro de números en los botones de colores.
+ 
 
