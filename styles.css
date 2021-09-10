@@ -25,6 +25,16 @@
     cursor: pointer;
 }
 
+*:focus {
+    outline: none;
+}
+
+
+.button:hover{
+    width: 5.76vmin;
+    height: 5.76vmin;
+}
+
 .no-button{
     border: none;
 }
@@ -212,7 +222,12 @@
             }
 
                 .footer a{
-                    font-size: 35px;
+                    font-size: 37px;
+                    cursor: pointer;
+                }
+
+                .footer a:hover {
+                    font-size: 40px;
                 }
 
                 .a-black{
