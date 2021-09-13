@@ -243,11 +243,15 @@
 @media only screen and (max-width: 1920px){
 
     .button{
-    width: 35px;
-    height: 35px;
+        width: 35px;
+        height: 35px;
+    }
+
+    .button:hover{
+        width: 3.8vmin;
+        height: 3.8vmin;
     }
 }
-
 @media only screen and (max-width: 700px){
 
     .color-box{
