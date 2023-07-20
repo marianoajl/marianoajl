@@ -12,6 +12,6 @@ Con casi dos años en el rubro IT busco constantemente mejorar como desarrollado
 <p>
 Comparto acá mis avances en cuanto a desarrollo y programación.
 </p>
-https://marianoajl.github.io/marianoajl/
+<a href="https://marianoajl.github.io/marianoajl/">marianoajl - web</a>
 
 
