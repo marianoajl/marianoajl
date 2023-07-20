@@ -6,7 +6,8 @@
 <h2>Hola! Soy Mariano.</h2>
 <br>
 <p>
-Con casi dos años en el rubro IT busco constantemente mejorar como desarrollador para seguir creciendo como profesional dentro del sector. En continuo aprendizaje y volcando lo aprendido dentro de mi ámbito de trabajo. Curioso, proactivo e intentando generar soluciones ante los desafíos que se presentan.
+    Interesado en el desarrollo web, la programación y su entorno. Busco constantemente mejorar como desarrollador para seguir creciendo como profesional dentro del sector IT. En continuo aprendizaje y volcando lo aprendido dentro de mi ámbito de trabajo. Curioso, proactivo e intentando generar soluciones ante los desafíos que se presentan.
+
 </p>
 <br>
 <p>
