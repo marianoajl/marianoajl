@@ -147,7 +147,7 @@ body {
 .header-box {
     max-width: 590px;
     width: 100%;
-    min-height: calc(100vh - 25px);
+    min-height: calc(100vh - 50px);
     padding: 25px 0;
     display: flex;
     flex-direction: column;
