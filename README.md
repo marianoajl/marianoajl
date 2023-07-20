@@ -8,7 +8,10 @@
 <p>
 Con casi dos años en el rubro IT busco constantemente mejorar como desarrollador para continuar creciendo como profesional dentro del sector. Con ganas de aprender y de volcar lo aprendido dentro de mi ámbito de trabajo. Curioso, proactivo e intentando desenvolverme cada vez más de forma independiente ante los desafíos que se presentan.
 </p>
-<!-- <h3>Estoy estudiando programación y te invito a que vayas viendo mis avances en este gran mundo.</h3> -->
+<br>
+<p>
+Comparto acá mis avances en cuanto a desarrollo y programación.
+</p>
 https://marianoajl.github.io/marianoajl/
 
 
